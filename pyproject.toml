@@ -1,0 +1,9 @@
+[project]
+name = "thermodrop"
+dynamic = ["version"]
+description = "Анализ температурных полей висящей капли"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

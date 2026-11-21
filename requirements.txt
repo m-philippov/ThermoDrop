@@ -1,0 +1,8 @@
+# Версии зафиксированы под Python 3.8 — последний Python с поддержкой Windows 7.
+# Qt 5.15 работает на Windows 7/10/11 (Qt 6 — только Windows 10+).
+PyQt5==5.15.10
+PyQt5-Qt5==5.15.2
+numpy==1.24.4
+matplotlib==3.7.5
+pyqtgraph==0.13.3
+Pillow==10.4.0
